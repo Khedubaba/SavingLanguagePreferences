@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Saving Language Preferences</string>
+    <string name="english">English</string>
+    <string name="hindi">हिन्दी</string>
+</resources>
